@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'selenium-scala-example'
+rootProject.name = 'selenium-scala-minimal'
